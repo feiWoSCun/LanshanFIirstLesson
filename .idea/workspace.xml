@@ -44,6 +44,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaLesson01\lesson\picture" />
+      <recent name="D:\JavaLesson01" />
+    </key>
+  </component>
   <component name="RunManager" selected="应用程序.test">
     <configuration name="AnOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="math.AnOperation" />
