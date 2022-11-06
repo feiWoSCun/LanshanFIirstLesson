@@ -5,6 +5,7 @@ import classss.Person;
 public class Boy extends Person {
 
     public static void main(String[] args) {
+  
         Boy boy = new Boy();
         boy.say();
         boy.eat();
